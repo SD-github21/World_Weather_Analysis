@@ -29,7 +29,7 @@ The same map as above depicting information boxes that provide detailed informat
 Map depicting the travel route between four chosen cities in Brazil (driving as the method of transportation):
 ![image](https://user-images.githubusercontent.com/85533099/134824996-7de9e3d0-787d-4f61-9b26-8a7ee5175ca2.png)
 
-Map depicting the four chosen cities along with information boxes that provide detailed information about the markers (three are depicted clearly):
+Map depicting the four chosen cities along with information boxes that provide detailed information about the markers:
 ![image](https://user-images.githubusercontent.com/85533099/134825017-a41d1760-5d68-41db-981d-4b9e89f9ea47.png)
 
 A second picture of the same map above that shows Touros that is hidden in the above map, since Touros and Natal are close together:
