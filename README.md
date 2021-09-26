@@ -33,6 +33,7 @@ Map depicting the four chosen cities along with information boxes that provide d
 ![image](https://user-images.githubusercontent.com/85533099/134825017-a41d1760-5d68-41db-981d-4b9e89f9ea47.png)
 
 A second picture of the same map above that shows Touros that is hidden in the above map, since Touros and Natal are close together:
+
 ![image](https://user-images.githubusercontent.com/85533099/134825157-4581b493-8652-410d-b12b-e910445c73e0.png)
 
 
